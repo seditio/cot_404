@@ -39,7 +39,7 @@
 			</li>
 		</ul>
 		<form role="form" action="{PHP|cot_url('search')}" method="get">
-			<input type="text" class="" placeholder="Поиск по сайту" name="sq" />
+			<input type="text" class="" placeholder="{PHP.L.404-search}" name="sq" />
 			<button class="" type="submit">{PHP.L.Search}</button>
 		</form>
 		<ul id="social">
