@@ -12,11 +12,8 @@
 
 ~~~
 $L['404-title'] = 'Страница не найдена';
-
 $L['404-subtitle'] = 'Запрашиваемая Вами страница могла быть удалена, переименована или, возможно, никогда не существовала';
-
 $L['404-home'] = 'Вернуться на главную';
-
 $L['404-report'] = 'Сообщить об ошибке';
 ~~~
 
@@ -24,11 +21,8 @@ $L['404-report'] = 'Сообщить об ошибке';
 
 ~~~
 $R['link-facebook'] = 'Полный адрес страницы в Facebook';
-
 $R['link-instagram'] = 'Полный адрес страницы в Instagram';
-
 $R['link-twitter'] = 'Полный адрес страницы в Twitter';
-
 $R['link-vk'] = 'Полный адрес страницы в VK';
 ~~~
 
@@ -36,21 +30,13 @@ $R['link-vk'] = 'Полный адрес страницы в VK';
 
 ~~~
 <span class="icon-facebook"></span>
-
 <span class="icon-github"></span>
-
 <span class="icon-instagram"></span>
-
 <span class="icon-rss"></span>
-
 <span class="icon-skype"></span>
-
 <span class="icon-telegram"></span>
-
 <span class="icon-twitter"></span>
-
 <span class="icon-vk"></span>
-
 <span class="icon-whatsapp"></span>
 ~~~
 
