@@ -44,22 +44,22 @@
 		</form>
 		<ul id="social">
 			<li>
-				<a href="{PHP.R.link-facebook}">
+				<a href="{PHP.R.link-facebook}" rel="nofollow">
 					<span class="icon-facebook"></span><i>Facebook</i>
 				</a>
 			</li>
 			<li>
-				<a href="{PHP.R.link-twitter}">
+				<a href="{PHP.R.link-twitter}" rel="nofollow">
 					<span class="icon-twitter"></span><i>Twitter</i>
 				</a>
 			</li>
 			<li>
-				<a href="{PHP.R.link-vk}">
+				<a href="{PHP.R.link-vk}" rel="nofollow">
 					<span class="icon-vk"></span><i>VKontakte</i>
 				</a>
 			</li>
 			<li>
-				<a href="{PHP.R.link-telegram}">
+				<a href="{PHP.R.link-telegram}" rel="nofollow">
 					<span class="icon-telegram"></span><i>Telegram</i>
 				</a>
 			</li>
