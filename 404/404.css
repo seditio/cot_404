@@ -44,7 +44,7 @@ form						{ margin: 6rem 0 2rem; display: flex; justify-content: center; }
 }
 
 @media (min-width: 768px)	{
-	p												{ width: 27rem; }
+	p												{ width: 28rem; }
 	ul#actions > li					{ width: auto; }
 	ul#social > li > a > i	{ font-style: normal; line-height: 2.25rem; padding: 0 0 0 .625rem; display: block; }
 }
