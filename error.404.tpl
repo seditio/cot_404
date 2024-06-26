@@ -38,7 +38,7 @@
 				<a href="{PHP|cot_url('page', 'c=system&al=contacts')}">{PHP.L.404-report}</a>
 			</li>
 		</ul>
-		<form role="form" action="{PHP|cot_url('search')}" method="get">
+		<form role="form" action="{PHP.cfg.mainurl}/{PHP|cot_url('search')}" method="get">
 			<input type="text" class="" placeholder="{PHP.L.404-search}" name="sq" />
 			<button class="" type="submit">{PHP.L.Search}</button>
 		</form>
